@@ -13,11 +13,8 @@ My goal is to build a solid understanding of cloud technologies, infrastructure,
 
 ## 👤 Student Information
 Name: Alleah I. Aseñero
-
 Course/Section: BSIT 4H
-
 Instructor: Jenkielyn Torres
-
 School Year: 2026–2027
 
 ## 📂 Repository Structure
